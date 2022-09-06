@@ -3,12 +3,14 @@ NOTE: This Code currently work only with Python. I will try to make it into Java
 import random
 
 number = random.randint(1,10)
-print ("The Randomly Generated Number is...", number)
+print ("The Number you Generated is...", number)
 
 =+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
 
 If you only want numbers between 1, 2 or 1,5 or 2,7, all you have to do is edit the random.randint row. For example: number = random.randint(1.2) or (2.5), etc.
 If you want a random message, when the number gets generated, edit the print row. Example: print ("The Number that you generated is...", number), and the best part, you
 can put whatever message you want.
+
+If you have any issues with the code I wrote, please go to the Issues Tab, and let me know the problem I have.
 
 I might add another small code that will let you generate as many numbers as you want. Thank you.
