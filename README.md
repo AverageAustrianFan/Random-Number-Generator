@@ -1,3 +1,3 @@
 This Python code generates a random number everytime you run it.
 
-In order to changed the number spawn, change the values in the code box. Thank you for reading this and using my code.
+To change the spawn number or ratio, adjust the values in the code box. Feel free to experiment with different value combinations and proportions to find the optimal balance for your specific needs. Thank you for taking the time to read through this documentation and for utilizing my code in your project.
